@@ -268,3 +268,33 @@ Deleted element is 6
 enter your choise
 6
 Deleted element is 7
+
+1-create()
+ 2-insert at begin
+ 3-insert at end
+ 4- insert at pos
+ 5-delete at begin
+ 6-delete at end
+ 7-delete at pos
+ 8-display
+ 9-reverse display
+ 10-exit
+enter your choise
+7
+enetr the pos
+3
+Deleted element is 8
+
+1-create()
+ 2-insert at begin
+ 3-insert at end
+ 4- insert at pos
+ 5-delete at begin
+ 6-delete at end
+ 7-delete at pos
+ 8-display
+ 9-reverse display
+ 10-exit
+enter your choise
+8
+1 -> 2 -> 3 -> 4 -> 5
