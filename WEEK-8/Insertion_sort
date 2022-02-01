@@ -1,0 +1,43 @@
+#include <stdio.h>
+
+void insertionSort(int arr[], int n)
+{
+	int i, key, j;
+	for (i = 1; i < n; i++) {
+		key = arr[i];
+		j = i - 1;
+		while (j >= 0 && arr[j] > key) {
+			arr[j + 1] = arr[j];
+			j = j - 1;
+		}
+		arr[j + 1] = key;
+	}
+}
+
+int main()
+{
+	int n,i,arr[n];
+    printf("\nEnter the size of an array");
+    scanf("%d",&n);
+    for(i=0; i<n; i++){
+        printf("Enter %d array element:",i);
+        scanf("%d",&arr[i]);
+    }
+	insertionSort(arr, n);
+	for (i = 0; i < n; i++)
+		printf("%d ", arr[i]);
+	printf("\n");
+}
+output:
+Enter the size of an array10
+Enter 0 array element:3
+Enter 1 array element:7
+Enter 2 array element:5
+Enter 3 array element:23
+Enter 4 array element:90
+Enter 5 array element:15
+Enter 6 array element:47
+Enter 7 array element:83
+Enter 8 array element:78
+Enter 9 array element:30
+3 5 7 15 23 30 47 78 83 90
