@@ -156,3 +156,143 @@ int main(){
    }             
 }
 output:
+1-create()
+ 2-insert at begin
+ 3-insert at end
+ 4- insert at pos
+ 5-delete at begin
+ 6-delete at end
+ 7-delete at pos
+ 8-display
+ 9-reverse display
+ 10-exit
+enter your choise
+1
+Enter the number of nodes
+5
+Enter the element to be inserted
+1
+Enter the element to be inserted
+2
+Enter the element to be inserted
+3
+Enter the element to be inserted
+4
+Enter the element to be inserted
+5
+
+1-create()
+ 2-insert at begin
+ 3-insert at end
+ 4- insert at pos
+ 5-delete at begin
+ 6-delete at end
+ 7-delete at pos
+ 8-display
+ 9-reverse display
+ 10-exit
+enter your choise
+2
+enter the value to be inserted
+6
+
+1-create()
+ 2-insert at begin
+ 3-insert at end
+ 4- insert at pos
+ 5-delete at begin
+ 6-delete at end
+ 7-delete at pos
+ 8-display
+ 9-reverse display
+ 10-exit
+enter your choise
+3
+enter the value to be inserted
+7
+
+1-create()
+ 2-insert at begin
+ 3-insert at end
+ 4- insert at pos
+ 5-delete at begin
+ 6-delete at end
+ 7-delete at pos
+ 8-display
+ 9-reverse display
+ 10-exit
+enter your choise
+4
+enter the value and position
+ 8
+4
+
+1-create()
+ 2-insert at begin
+ 3-insert at end
+ 4- insert at pos
+ 5-delete at begin
+ 6-delete at end
+ 7-delete at pos
+ 8-display
+ 9-reverse display
+ 10-exit
+enter your choise
+8
+6 -> 1 -> 2 -> 8 -> 3 -> 4 -> 5 -> 7
+1-create()
+ 2-insert at begin
+ 3-insert at end
+ 4- insert at pos
+ 5-delete at begin
+ 6-delete at end
+ 7-delete at pos
+ 8-display
+ 9-reverse display
+ 10-exit
+enter your choise
+5
+Deleted element is 6
+1-create()
+ 2-insert at begin
+ 3-insert at end
+ 4- insert at pos
+ 5-delete at begin
+ 6-delete at end
+ 7-delete at pos
+ 8-display
+ 9-reverse display
+ 10-exit
+enter your choise
+6
+Deleted element is 7
+
+1-create()
+ 2-insert at begin
+ 3-insert at end
+ 4- insert at pos
+ 5-delete at begin
+ 6-delete at end
+ 7-delete at pos
+ 8-display
+ 9-reverse display
+ 10-exit
+enter your choise
+7
+enetr the pos
+3
+Deleted element is 8
+
+1-create()
+ 2-insert at begin
+ 3-insert at end
+ 4- insert at pos
+ 5-delete at begin
+ 6-delete at end
+ 7-delete at pos
+ 8-display
+ 9-reverse display
+ 10-exit
+enter your choise
+8
+1 -> 2 -> 3 -> 4 -> 5
